@@ -1,0 +1,27 @@
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #DDDDDD;
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+
+input {
+  position: fixed;
+  display: block;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  bottom: 2%;
+  width: 200px;
+}
+
+p {
+  text-align: left;
+  user-select: none;
+  color: #444444;
+  font-size: 12px;
+}
